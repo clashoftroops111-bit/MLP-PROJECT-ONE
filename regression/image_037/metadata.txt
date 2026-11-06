@@ -1,0 +1,4 @@
+MNIST test index: 37
+Actual label: 1
+Python prediction: 1
+Classification correct: True

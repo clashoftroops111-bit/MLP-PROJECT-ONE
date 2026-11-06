@@ -1,0 +1,12 @@
+{
+    "architecture": "784-16-10",
+    "activation": "ReLU",
+    "optimizer": "Adam",
+    "learning_rate": 0.001,
+    "batch_size": 64,
+    "epochs": 30,
+    "train_samples": 54000,
+    "validation_samples": 6000,
+    "test_samples": 10000,
+    "seed": 42
+}
